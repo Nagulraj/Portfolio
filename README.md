@@ -3,8 +3,6 @@
   <a href="https://nagulraj.github.io/Portfolio" target="_blank">Nagulraj T</a>
 </h2>
 
-<br/>
-
 ## Built With
 
 My personal portfolio <a href="https://nagulraj.github.io/Portfolio" target="_blank">Nagulraj T</a><br/>
